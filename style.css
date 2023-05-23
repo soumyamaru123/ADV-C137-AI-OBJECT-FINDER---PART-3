@@ -1,0 +1,22 @@
+.header{
+    font-size: 35px;  
+    box-shadow: 10px 10px 10px goldenrod;
+  }
+  
+  .img {
+      max-width:100%;
+              height:auto;
+  }
+  
+  body{
+    background-image: cover;
+  }
+  
+  .para{
+    font-size: 30px;
+  }
+  
+  canvas{
+   border: 10px solid goldenrod; 
+  
+  }
